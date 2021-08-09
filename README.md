@@ -1,4 +1,4 @@
-# monkeytype_client_side_graph_export
+# monkeytype_client_side_table_export
 self-explanatory
 
 copy and paste it in the console and you are good
